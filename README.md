@@ -23,13 +23,14 @@ DESCRIPTION
       Technician and currently pursuing a Bachelor's degree in Computer
       Science at UFSCar.
       If I disappear you can find me operating somewhere between localhost and production..
-      
-      --api-backend  =>   Architecting scalable endpoints and backend logic
-      --db-storage   =>   Modeling data securely and optimizing queries
-      --host-deploy  =>   Managing hosting, deployment and infrastructure
-      --ci-cd        =>   Automating workflows and keeping version control and history clean 
-      --nixos        =>   Rebuilding the system configuration... again
 
+      {
+         api-backend  =>   'Architecting scalable endpoints and backend logic'
+         db-storage   =>   'Modeling data securely and optimizing queries'
+         host-deploy  =>   'Managing hosting, deployment and infrastructure'
+         ci-cd        =>   'Automating workflows and keeping version control and history clean' 
+         nixos        =>   'Rebuilding the system configuration... again'
+      }
 
 ```
 
