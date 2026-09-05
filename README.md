@@ -62,10 +62,11 @@ DESCRIPTION
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroruama&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/pedroruama)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroruama&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/PedroRuama)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroruama&theme=catppuccin_mocha&hide_border=true&langs_count=8&layout=compact)](https://github.com/pedroruama)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroruama&theme=catppuccin_mocha&hide_border=true)](https://github.com/pedroruama)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroruama&theme=catppuccin_mocha&hide_border=true&langs_count=8&layout=compact)](https://github.com/PedroRuama)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroruama&theme=catppuccin_mocha&hide_border=true)](https://github.com/PedroRuama)
 
 </div>
 
