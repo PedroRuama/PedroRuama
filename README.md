@@ -1,14 +1,71 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A6E3A1&center=true&vCenter=true&width=720&lines=Hello,+I'm+Pedro+Ruama;CS+Student+@+UFSCar;Systems+Development+Technician;Full-Stack+Developer)](https://git.io/typing-svg)
+
+<br>
+
+<sub><b>Computer Science Student</b> &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Linux Enthusiast</sub>
+
 </div>
 
+---
 
-<!-- Card de Estatísticas Gerais -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About Me
 
-<!-- Card das Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+```man
+NAME
+      pedroruama — developer, cs student, tech enthusiast
+
+SYNOPSIS
+      pedroruama [--stack=full] [--os=linux]
+
+DESCRIPTION
+      Passionate about building scalable systems and exploring both low-level
+      and high-level architectures. Graduated as a Systems Development
+      Technician and currently pursuing a Bachelor's degree in Computer
+      Science at UFSCar. 
+```
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" title="C" /></a>
+  <img width="15" />
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" /></a>
+  <img width="15" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" /></a>
+  <img width="15" />
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" /></a>
+  <img width="15" />
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" /></a>
+  <img width="15" />
+  <a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" /></a>
+  <img width="15" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL" title="SQL (MySQL)" /></a>
+  <img width="15" />
+  <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" alt="Debian" title="Debian" /></a>
+  <img width="15" />
+  <a href="https://nixos.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="45" alt="NixOS" title="NixOS" /></a>
+</div>
+
+<br>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroruama&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/pedroruama)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroruama&theme=catppuccin_mocha&hide_border=true&langs_count=8&layout=compact)](https://github.com/pedroruama)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroruama&theme=catppuccin_mocha&hide_border=true)](https://github.com/pedroruama)
+
+</div>
+
+---
+<div align="center">
+  <sub>Built with ☕ by Pedro Ruama · UFSCar</sub>
+</div>
