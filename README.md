@@ -1,6 +1,6 @@
 <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A6E3A1&center=true&vCenter=true&width=720&lines=sudo+nixos-rebuild+switch+ruamaSystemctl;Wait...+fetching+caffeine...;%E2%98%95+System+Ready!Welcome;Hello,+I'm+Pedro+Ruama;CS+Student+@+UFSCar;Systeususms+Development+Technician;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A6E3A1&center=true&vCenter=true&width=720&lines=sudo+nixos-rebuild+switch+ruamaSystemctl;Wait...+fetching+caffeine...;%E2%98%95+System+ready!+Be+welcome;Hello,+I'm+Pedro+Ruama;CS+Student+@+UFSCar;Systeususms+Development+Technician;)](https://git.io/typing-svg)
 
 
 <sub><b>Computer Science Student</b> &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Linux Enthusiast</sub>
