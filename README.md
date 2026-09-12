@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=216a3c&section=header" alt="Decorative green waves"/>
+
+
 <div align="center">
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A6E3A1&center=true&vCenter=true&width=720&lines=sudo+nixos-rebuild+switch+ruamaSystemctl;Wait...+fetching+caffeine...;%E2%98%95+System+ready!+Be+welcome;Hello,+I'm+Pedro+Ruama;CS+Student+@+UFSCar;Systeususms+Development+Technician;)](https://git.io/typing-svg)
@@ -73,9 +76,14 @@ DESCRIPTION
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedroruama&theme=catppuccin_mocha&hide_border=true)](https://github.com/PedroRuama)
 
+ <img src="https://personal-stats-henry.vercel.app/api/top-langs/?username=PedroRuama&theme=onedark&layout=compact&langs_count=20" alt="PedroRuama's GitHub most used languages"/>
+
 </div>
 
 ---
 <div align="center">
   <sub>Built with ☕ by Pedro Ruama</sub>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=216a3c&section=footer" alt="Decorative purple waves"/>
