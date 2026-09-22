@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```man
 NAME
@@ -66,7 +66,7 @@ DESCRIPTION
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
